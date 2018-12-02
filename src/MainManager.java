@@ -3,7 +3,7 @@ public class MainManager {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello GIT ble ble ble xxx");
+		System.out.println("Hello GIT ble ble ble 123");
 	}
 
 }
